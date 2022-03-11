@@ -11,3 +11,6 @@
 7. Datetime
 8. Boolean
 
+# Database CRUD operations
+
+Using CRUD operations we can apply on Database, Table and Row.
